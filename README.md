@@ -1,4 +1,5 @@
 ![This is logo](https://static.rfstat.com/renderforest/images/v2/logo-homepage/gradient_2.png)
+<img url="https://static.rfstat.com/renderforest/images/v2/logo-homepage/gradient_2.png">
 <h1> My first project!</h1>
 <h3>Seasons</h3>
 <ul>
