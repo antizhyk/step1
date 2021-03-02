@@ -1,10 +1,12 @@
 ![This is logo](https://static.rfstat.com/renderforest/images/v2/logo-homepage/gradient_2.png)
 <h1> My first project!</h1>
 <h3>Seasons</h3>
-1.spring
-2.summer
-3.fall (autumn)
-4.winter
+<ul>
+<li>spring</li>
+<li>summer</li>
+<li>fall (autumn)</li>
+<li>winter</li>
+</ul>
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
